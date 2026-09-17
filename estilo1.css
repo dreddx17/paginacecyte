@@ -1,0 +1,44 @@
+#contenedor {
+    width: 90%;
+    margin: auto;
+    background-color: #D7D7D7;
+}
+
+#encabezado {
+    text-align: center;
+    background-color: #FD8D0E;
+    align-self: center;
+}
+
+#menu {
+    background-color: #646464;
+    text-align: center;
+}
+
+#derecha {
+    float: right;
+    background-color: #B4B3A8;
+    width: 80%;
+}
+
+#izquierda {
+    background-color: #646464;
+    float: left;
+    width: 20%;
+    text-align: center;
+}
+
+#piepagina {
+    clear: both;
+    background-color: #8F0884;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+a{
+    color: aliceblue;
+}
